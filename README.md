@@ -2,17 +2,17 @@
 
 # Hola, soy traderxael 👋
 
-**Construyo herramientas que uso todos los días — desde Calama, Chile 🇨🇱**
+**Construyo herramientas que uso todos los días — desde Chile 🇨🇱**
 
 [![Repos públicos](https://img.shields.io/github/repo-count/traderxael?style=flat-square&label=repos)](https://github.com/traderxael?tab=repositories)
 [![Lenguaje principal](https://img.shields.io/github/languages/top/traderxael/AI-Informe-?style=flat-square&label=JavaScript)](https://github.com/traderxael)
-[![Ubicación](https://img.shields.io/badge/ubicaci%C3%B3n-Calama%2C%20Chile-0ea5e9?style=flat-square)](#)
+[![Ubicación](https://img.shields.io/badge/ubicaci%C3%B3n-Chile-0ea5e9?style=flat-square)](#)
 
 </div>
 
 ## 🛠️ Sobre mí
 
-Soy desarrollador autodidacta en **Calama, norte de Chile**. Construyo proyectos
+Soy desarrollador autodidacta en **Chile**. Construyo proyectos
 propios para resolver problemas reales en lugar de seguir tutoriales: los
 detalles están en los repos — código, tests que corren, CI en verde y apps
 desplegadas.
@@ -37,7 +37,7 @@ desplegadas.
 Recopilación automática de novedades: nuevos modelos, usos reales,
 señales económicas y qué va a cambiar. Python + GitHub Actions + Vercel.
 
-**100 commits · CI diario · Desplegado**
+**CI diario · Desplegado**
 
 [![ver en vivo](https://img.shields.io/badge/▶%20ver%20en%20vivo-ai--informe--dashboard.vercel.app-black?style=flat-square)](https://ai-informe-dashboard.vercel.app)
 [![código](https://img.shields.io/badge/⭐%20código-traderxael%2FAI--Informe--blue?style=flat-square)](https://github.com/traderxael/AI-Informe-)
@@ -52,7 +52,7 @@ Rastreador de hábitos con rachas, calendario y **auth JWT**.
 Backend en Express + better-sqlite3, frontend en React + Vite + TS.
 Suite de tests real en el backend.
 
-**55 commits · CI con tests · MIT**
+**CI con tests · MIT**
 
 [![código](https://img.shields.io/badge/⭐%20código-traderxael%2Fhabit--tracker-blue?style=flat-square)](https://github.com/traderxael/habit-tracker)
 
@@ -139,7 +139,7 @@ Parser de URLs estricto (anti-proxy) **con 25 casos de test**.
 ## 📫 Contacto
 
 - 💼 GitHub: [@traderxael](https://github.com/traderxael)
-- 📍 Calama, Región de Antofagasta, Chile 🇨🇱
+- 📍 Chile 🇨🇱
 
 ---
 
@@ -147,6 +147,6 @@ Parser de URLs estricto (anti-proxy) **con 25 casos de test**.
 
 **[⬆ Volver arriba](#)**
 
-<sub>Hecho con ☕ y demasiadas horas en Calama</sub>
+<sub>Hecho con ☕ y demasiadas horas de código</sub>
 
 </div>
